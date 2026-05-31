@@ -1,0 +1,15 @@
+{
+    "cells": [
+        {
+            "cell_type": "code",
+            "id": "#VSC-34f0f3d0",
+            "metadata": {
+                "language": "python"
+            },
+            "source": [
+                "import sys",
+                "sys.version_info"
+            ]
+        }
+    ]
+}
