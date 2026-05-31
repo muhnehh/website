@@ -2,6 +2,12 @@
 
 <div align="center">
 
+> **Note:** This is a personal fork maintained by `muhnehh`. Changes in this
+> repository are specific to the user's website and are not intended as
+> upstream contributions to `alshedivat/al-folio` unless explicitly opened
+> as a pull request.
+
+
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
